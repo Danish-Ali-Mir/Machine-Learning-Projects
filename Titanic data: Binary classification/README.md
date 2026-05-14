@@ -4,7 +4,7 @@ This project uses Machine Learning to predict the survival of passengers on the 
 
 ## 🚀 Project Overview
 The goal is to determine which factors (like age, gender, or class) were most likely to lead to survival during the Titanic disaster. 
-
+ 
 ## 🛠️ Key Features
 * **Data Analysis:** Comprehensive EDA using Seaborn and Matplotlib to visualize survival trends.
 * **Data Preprocessing:** * Handled missing values using `SimpleImputer`.
